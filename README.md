@@ -5,4 +5,4 @@ Image Low resolution to High resolution converter using autoencoders which compr
 
 Results -
 
-
+![alt text](https://github.com/anirudha-bs/High-resolution-image-converter/blob/master/low_res.jpeg?raw=true)       ![alt text](https://github.com/anirudha-bs/High-resolution-image-converter/blob/master/high_res.png?raw=true)

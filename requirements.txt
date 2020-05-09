@@ -1,0 +1,9 @@
+tensorflow
+keras
+os
+re
+scipy
+skimage.transform
+matplotlib
+numpy
+matplotlib.pyplot

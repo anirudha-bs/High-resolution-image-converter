@@ -1,6 +1,6 @@
 ﻿# High-resolution-image-converter
 
-Low resolution image to High resolution converter using autoencoders which comprises of CNN and trained using residual learning.
+Low resolution to High resolution image converter using autoencoders which comprises of CNN and trained using residual learning.
 
 
 Results -
